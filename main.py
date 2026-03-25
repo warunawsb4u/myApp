@@ -1,1 +1,1 @@
-print("abcdefghij")
+print("abc")
